@@ -1,4 +1,6 @@
 # boilerplate
 
 Basic starting point for building websites and modules
-* ES6
+* js (ES6 / Babel)
+* css (normalize, flexboxgrid)
+* build (npm, gulp)
